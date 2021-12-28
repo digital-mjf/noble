@@ -1,0 +1,726 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    .hero-top h1 {
+        font-size: 60px;
+        line-height: 75px;
+    }
+    .hero-top p {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .hero-bottom-txt p {
+        font-size: 20px;
+        line-height: 27px;
+    }
+    .line-bx h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .line-bx img {
+        width: 36px;
+    }
+    .hero-profile img {
+        bottom: -35px;
+    }
+    .care-title h3 {
+        font-size: 40px;
+        line-height: 55px;
+    }
+    .care-title h3 img {
+        width: 36px;
+    }
+    .care-title p {
+        font-size: 24px;
+    }
+    .health-top-txt p {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .to-service ul li {
+        font-size: 25px;
+    }
+    .profile-top-text h2 {
+        font-size: 50px;
+        margin-left: -105px;
+    }
+    .profile-top-text h2 img {
+        width: 85px;
+        margin-right: 20px;
+    }
+    .profile-top-text p {
+        font-size: 30px;
+    }
+    .profile-contact h4 {
+        font-size: 32px;
+    }
+    .profile-contact h4 img {
+        width: 24px;
+        margin-right: 15px;
+    }
+    .profile-contact ul li img {
+        height: 32px;
+    }
+    .pro-title h3 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .pro-title h3 span {
+        width: 70px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 40px;
+    }
+    .profile-content p {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .profile-main {
+        padding: 80px 150px;
+    }
+    .pro-content a {
+        font-size: 32px;
+    }
+    .profile-collaps {
+        padding: 80px 40px;
+    }
+    .get-list ul li {
+        font-size: 25px;
+    }
+    .call-option a {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .call-option  a img {
+        width: 32px;
+        margin-right: 20px;
+    }
+    .contact-box2 h2 {
+        font-size: 45px;
+        line-height: 84px;
+        margin-bottom: 20px;
+    }
+
+    .btn_itm a {
+        height: 70px;
+        font-size: 36px;
+    }
+    .btn_itm button {
+        font-size: 40px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .advance-title h4 {
+        font-size: 55px;
+        line-height: 70px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1300px) {
+    .advance-box p {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .advance-box {
+        width: 580px;
+        padding: 50px;
+    }
+    .contact-title h2 {
+        font-size: 40px;
+    }
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+    .hero-top h1 {
+        font-size: 50px;
+        line-height: 65px;
+    }
+    .hero-top p {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .hero-right img {
+        width: 70px;
+    }
+    .hero-right h4 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .hero-bottom-txt p {
+        font-size: 17px;
+        line-height: 21px;
+    }
+    .hero-right p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .line-bx h3 {
+        font-size: 25px;
+        line-height: 40px;
+        margin: 0;
+    }
+    .line-bx img {
+        width: 30px;
+    }
+    .care-title h3 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .care-title p {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .health-top-txt p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .get-text h3 {
+        font-size: 25px;
+        line-height: 26px;
+    }
+    .get-time h4 {
+        font-weight: 500;
+        font-size: 19px;
+    }
+    .get-table ul li {
+        font-size: 20px;
+        line-height: 36px;
+    }
+    .star h4 {
+        font-size: 24px;
+    }
+    .live-btn a {
+        font-size: 18px;
+    }
+    .price-txt h4 {
+        font-size: 24px;
+    }
+    .top-txt h4 {
+        font-size: 20px;
+    }
+    .top-txt p {
+        font-size: 20px;
+    }
+    .btn-golden a {
+        font-size: 28px;
+    }
+    .to-service ul li {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .profile-top-text h2 {
+        font-size: 50px;
+        margin-left: -60px;
+    }
+    .profile-top-text h2 img {
+        width: 80px;
+    }
+    .profile-main {
+        padding: 80px 100px;
+    }
+    .profile-top-text p {
+        font-size: 25px;
+        line-height: 36px;
+    }
+    .pro-title h3 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .profile-contact h4 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .profile-contact h4 img {
+        width: 24px;
+    }
+    .profile-content p {
+        font-size: 26px;
+        line-height: 35px;
+    }
+    .pro-content a {
+        font-size: 28px;
+        line-height: 26px;
+    }
+    .profile-collaps {
+        padding: 80px 40px;
+    }
+    .get-list h4 {
+        font-size: 25px;
+    }
+    img.role_2 {
+        width: 55px;
+        top: -22px;
+        right: 20px;
+    }
+    .get-list li img {
+        width: 22px;
+        margin-right: 15px;
+    }
+    .get-list ul li {
+        font-size: 20px;
+    }
+    .metters-box h4 {
+        font-size: 30px;
+    }
+    .metters-box p {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .advance-box p {
+        font-size: 28px;
+        line-height: 42px;
+    }
+    .contact-title h2 {
+        font-size: 40px;
+    }
+    .btn_itm a {
+        line-height: 70px;
+        height: 70px;
+        font-size: 30px;
+    }
+    .btn_itm img {
+        width: 22px;
+        margin-right: 15px;
+    }
+    .btn_itm button {
+        font-size: 32px;
+        height: 70px;
+        line-height: 70px;
+    }
+    .contact-box2 h2 {
+        line-height: 45px;
+        font-size: 36px;
+        margin: 25px 0;
+    }
+    .call-option a {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .call-option  a img {
+        width: 30px;
+        margin-right: 10px;
+    }
+    .contact-right {
+        padding-bottom: 20px;
+    }
+    .footer-bar h4 {
+        font-size: 25px;
+    }
+    .grass_img img {
+        max-width: 90%;
+    }
+    .advance-title img {
+        width: 120px;
+    }
+    .advance-title h4 {
+        font-size: 50px;
+        line-height: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+ 
+
+
+
+
+
+
+/* md Device :991px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .hero-top h1 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .hero-top p {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .hero-right img {
+        width: 60px;
+    }
+    .hero-right h4 {
+        font-size: 28px;
+        line-height: 32px;
+        padding-left: 10px;
+    }
+    .grass_img img {
+        max-width: 90%;
+    }
+    .hero-bottom-txt p {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .hero-right p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .line-bx h3 {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .line-bx img {
+        width: 22px;
+        margin-right: 10px;
+    }
+    .hero-bottom-txt {
+        padding: 15px;
+        margin: 20px 0;
+    }
+    .hero-bottom-txt p:last-child {
+        margin: 0;
+    }
+    .line-bx {
+        margin-top: 15px;
+    }
+    .care-title h3 {
+        font-size: 36px;
+        line-height: 45px;
+    }
+    .care-title h3 img {
+        width: 30px;
+        margin-right: 20px;
+    }
+    .care-title p {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .health-top-txt p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .care-card-bottom {
+        padding: 20px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .get-text h3 {
+        font-size: 20px;
+    }
+    .get-time h4 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .get-time {
+        width: 150px;
+    }
+    .get-time img {
+        margin-right: 8px;
+        width: 22px;
+    }
+    .get-table ul li {
+        font-size: 18px;
+        line-height: 35px;
+    }
+    .get-table li span {
+        width: 70px;
+        padding: 6px 0;
+    }
+    .price-txt h4 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .live-btn a {
+        font-size: 18px;
+    }
+    .star h4 {
+        font-size: 20px;
+    }
+    .star li img {
+        width: 20px;
+    }
+    .top-txt h4 {
+        font-size: 18px;
+    }
+    .top-txt p {
+        font-size:16px;
+    }
+    .top-txt {
+        width: 200px;
+        padding: 15px;
+    }
+    .top-txt span {
+        font-size: 15px;
+    }
+    .btn-golden a {
+        padding: 10px 30px;
+        font-size: 22px;
+        line-height: 35px;
+    }
+    .man-3 img {
+        right: -20px;
+    }
+    .to-service ul li {
+        padding: 13px 10px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .to-service li img {
+        width: 20px;
+        margin-right: 15px;
+    }
+    li.stop-icon img {
+        width: 30px !important;
+        margin-left: -10px;
+    }
+    .profile-top-text h2 {
+        font-size: 40px;
+        line-height: 36px;
+        margin-left: 0;
+    }
+    .profile-top-text h2 img {
+        width: 70px;
+        margin-right: 20px;
+    }
+    .profile-main {
+        padding: 80px 80px;
+    }
+    .profile-top-text p {
+        font-size: 30px;
+    }
+    .profile-top-text h5 {
+        font-size: 32px;
+        line-height: 40px;
+        margin-top: 35px;
+    }
+    .pro-title h3 {
+        font-size: 36px;
+        line-height: 50px;
+    }
+    .pro-title h3 span {
+        width: 65px;
+        height: 60px;
+        line-height: 65px;
+        margin-right: 20px;
+    }
+    .profile-contact h4 {
+        font-size: 24px;
+        line-height: 25px;
+    }
+    .profile-contact h4 img {
+        width: 22px;
+        margin-right: 10px;
+    }
+    .profile-contact ul li img {
+        height: 20px;
+    }
+    .profile-content p {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .pro-content img {
+        max-width: 170px;
+    }
+
+    .pro-content a {
+        font-size: 22px;
+        line-height: 20px;
+        margin-top: 20px;
+    }
+    .get-list {
+        margin-top: 70px;
+    }
+    .profile-collaps {
+        padding: 40px 40px;
+    }
+    .metters-box p {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .metters-box h4 {
+        font-size: 28px;
+    }
+    .get-list ul li {
+        font-size: 22px;
+    }
+    .procontent h3 {
+        font-size: 36px;
+    }
+    .procontent h3 img {
+        width: 85px;
+    }
+    .procontent p {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    a.golden-btn {
+        font-size: 30px;
+        height: 70px;
+        width: 240px;
+        line-height: 70px;
+    }
+    .advance-title img {
+        width: 115px;
+    }
+    .advance-title h4 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .advance-box p {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .contact-title h2 {
+        font-size: 32px;
+    }
+    .cap-img {
+        display: none;
+    }
+    .contact-box2 h2 {
+        font-size: 36px;
+        line-height: 80px;
+    }
+    .call-option  a img {
+        width: 32px;
+        margin-right: 15px;
+    }
+    .call-option a {
+        font-size: 30px;
+        line-height: 52px;
+        margin: 5px 0;
+    }
+    .btn_itm {
+        padding: 15px 8px;
+    }
+    .btn_itm a {
+        width: 100%;
+        height: 60px;
+        font-size: 22px;
+    }
+    .btn_itm img {
+        width: 20px;
+        margin-right: 10px;
+    }
+    .btn_itm button {
+        font-size: 32px;
+        height: 60px;
+        line-height: 60px;
+    }
+    .footer-bar h4 {
+        font-size: 24px;
+    }
+    .footer-bar img {
+        width: 55px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :320px. */
+@media only screen and (max-width: 767px) {
+    .grass_img img {
+        max-width: 100%;
+    }
+    .hero-right {
+        display: none;
+    }
+    .service-wrapper {
+        display: block;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 0;
+    }
+    .to-service {
+        margin: 25px 0;
+    }
+    .to-title h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .to-service li img {
+        width: 40px;
+        margin-right: 20px;
+    }
+    .profile-top-text h2 img {
+        width: 50px;
+        margin-right: 20px;
+    }
+    .profile-top-text h2 {
+        font-size: 30px;
+        margin-left: 0px;
+    }
+    .profile-main {
+        padding: 60px 30px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+  
+    
+    
+ 
+}
